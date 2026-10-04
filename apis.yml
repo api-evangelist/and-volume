@@ -54,7 +54,7 @@ tags:
 - Institutional Investing
 - Fintech
 - Artificial Intelligence
-- Portfolio-Management
+- Portfolio Management
 - Blockchain
 - Treasury Management
 tags_raw:
@@ -68,6 +68,7 @@ tags_raw:
 - Portfolio Management
 - Blockchain
 - Treasury Management
+- Portfolio-Management
 apis: []
 maintainers:
 - FN: Kin Lane
